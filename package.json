@@ -1,5 +1,8 @@
 {
-  "name": "@welldone-software/why-did-you-render",
+  "name": "@hypnosphi/why-did-you-render",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Monkey patches React to notify you about avoidable re-renders.",
   "version": "8.0.2",
   "repository": "git+https://github.com/welldone-software/why-did-you-render.git",
